@@ -1,0 +1,17 @@
+Weld ID,GPS Location,Date of Installation,Welder Name,Welding Method,UT Result,Inspection Status,Maintenance History,Defect Type,Severity Level,Recommended Action,Maintenance Date,Maintenance Engineer
+WLD-CN-0001,KM 123.456,2026-05-31,Ali Hassan,Flash Butt Welding,PASS,Approved,,,,,Not Available,Not Available
+WLD-CN-0002,KM 125.200,2026-05-31,Zhang Wei,Alumino Thermit Welding,PASS,Approved,Rail Grinding,,,,Not Available,Not Available
+WLD-CN-0008,KM 108.750,2026-06-04,Wang Jun,Flash Butt Welding,PASS,Approved,Lubrication,Gauge Corner Cracking,High,Rail Grinding and Lubrication,Not Available,Not Available
+WLD-CN-0009,KM 112.100,2026-06-04,Liu Yang,Alumino Thermit Welding,FAIL,Maintenance Completed,Rail Replacement,Sudden Rail Fracture,Critical,Immediate Rail Replacement,Not Available,Not Available
+WLD-CN-0010,KM 115.450,2026-06-05,Zhang Lei,Flash Butt Welding,PASS,Approved,,,,,Not Available,Not Available
+WLD-CN-0011,KM 118.900,2026-06-05,Sun Kai,Alumino Thermit Welding,PASS,Approved,Preventive Grinding,Rail Corrugation,Low,Preventive Rail Grinding,Not Available,Not Available
+WLD-CN-0012,KM 121.300,2026-06-06,Zhao Ming,Flash Butt Welding,PENDING,Pending Inspection,,,,,Not Available,Not Available
+WLD-CN-0013,KM 125.600,2026-06-06,Huang Bo,Alumino Thermit Welding,PASS,Approved,Rail Grinding,Gauge Corner Cracking,Medium,Rail Grinding and Lubrication,Not Available,Not Available
+WLD-CN-0014,KM 129.850,2026-06-07,Xu Peng,Flash Butt Welding,FAIL,Rework Required,Rewelding,Weld Porosity,High,Reweld Affected Section,Not Available,Not Available
+WLD-CN-0015,KM 134.200,2026-06-07,Gao Feng,Alumino Thermit Welding,PASS,Approved,,,,,Not Available,Not Available
+WLD-CN-0003,KM 92.500,2026-06-02,Chen Wei,Flash Butt Welding,PASS,Approved,,,,,Not Available,Not Available
+WLD-CN-0004,KM 95.800,2026-06-02,Li Hao,Alumino Thermit Welding,PENDING,Pending Inspection,,,,,Not Available,Not Available
+WLD-CN-0005,KM 99.200,2026-06-03,Zhang Jun,Flash Butt Welding,PENDING,Pending Inspection,,,,,Not Available,Not Available
+WLD-CN-0006,KM 102.450,2026-06-03,Wang Tao,Alumino Thermit Welding,FAIL,Rework Required,,Gauge Corner Cracking,High,Rail Grinding and Lubrication,Not Available,Not Available
+WLD-CN-0007,KM 105.100,2026-06-04,Liu Chen,Flash Butt Welding,PASS,Approved,,,,,Not Available,Not Available
+WLD-CN-0016,KM 138.750,2026-06-08,Yang Bo,Flash Butt Welding,FAIL,Rework Required,,Sudden Rail Fracture,Critical,Immediate Rail Replacement,Not Available,Not Available
